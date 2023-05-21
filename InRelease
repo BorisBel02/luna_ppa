@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Boris
+Label: luna
+Suite: stable
+Version: 0.0
+Codename: luna
+Architectures: amd64
+Components: main
+Description: Luna language package repository
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETKBDb1t1NxjN8hANRQHp26NcMJkFAmRqJx4ACgkQRQHp26Nc
+MJlRhhAAyfMC2tEPpQBtm/cXjK8ejMJiU7IjVLd8mqbOQ0+Cv2gzwC+vxbAU190l
+kIWAlUO/U5gwvhIUVPVenKCy/8crtJoHNpsPU6MlyY3sqRNHF90fDON6WzHjtWwH
+XLqQ2vb+l4Lkd84DO1CXu07hmmCof2HWGIhBtloQKSONOv34J/f9l0dBUDrQesNq
+yitNXL8AqM1LS3i64TiGFX36w8Xu+wokVJCb+JmICa8vSnILteSfHBtwdcLLDbak
+7bvdG2bwMbLzEaM1JIqAL/oeoXgqHCf7wbUEj05ZvO6SjDZwTP3756WTnT3bR3z8
+vyq2y7HqH0VRKvF27xD7NCb/Fv1pL2Sx90hSO+q8OaPK8oeIzEaEszYoPW9DbZVu
+l4gSBDJyTzOLZrcmguLKY1ON2Cy25jrSn44Jr2kVNjICdu6dMMF5/Pq40osPeNRn
+Uk7fpn1Zea2Tmndk1l05xEHF12ZQv5xZs8s4Y7ofbeySPRWG0UN+1bhhS5FtVND7
+6Hn7Tk/54ie7RNrwKGbTolUxPIIk8Psvozf3+f8kwfrghM4YD1hWkdfIWohOiM4A
+jjQQI+TK29YTzsfQnUlm7jabgDj/l7/O0Aeq2lj0Uxnfs6dvcdTHoNQ7UrKdk45T
+4VEdId7XyJFblNBwpRIqcLXsGOa1MF55vfHsTFdVGjh35VWf/wc=
+=BuEz
+-----END PGP SIGNATURE-----
